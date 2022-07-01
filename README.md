@@ -30,8 +30,7 @@
 <div align="center">
 
 # Wallpaper(s)
- I got this wallpaper (and a lot of others) from this repo!
- https://github.com/Akhilkrishnauk/Wallpapers 
+ I got this wallpaper (and a lot of others)[from this repo!](https://github.com/Akhilkrishnauk/Wallpapers)
  
 # Screenshots
   
@@ -44,6 +43,6 @@
 
 # Thanks to
   
-github.com/owl4ce for README.md style!
+[@owl4ce](github.com/owl4ce) for the README style!
   
   </div>
